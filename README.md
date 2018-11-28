@@ -1,4 +1,4 @@
-# advertising
+# Advertising
 
 # Description
 
@@ -17,17 +17,17 @@ The dataset contains the following features.
 'Timestamp': Time at which consumer clicked on Ad or closed window.
 'Clicked on Ad': 0 or 1 indicated clicking on Ad
 
-# Import 
+## Import 
 
-# Get the Data
+## Get the Data
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Let's use seaborn to explore the data!
 
 Create Plots
 
-# Logistic Regression¶
+## Logistic Regression¶
 
 Now it's tiem to do a trian test split, and train our model!
 
@@ -39,7 +39,7 @@ Split the data into training set and testing set using train_test_split
 
 Now Predict values for the testing data.
 
-# Create a classification report for the model.
+## Create a classification report for the model.
 
 ## Conclusion
 
