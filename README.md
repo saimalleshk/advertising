@@ -21,26 +21,26 @@ The dataset contains the following features.
 
 # Get the Data
 
-#Exploratory Data Analysis
+# Exploratory Data Analysis
 
 Let's use seaborn to explore the data!
 
 Create Plots
 
-#Logistic Regression¶
+# Logistic Regression¶
 
 Now it's tiem to do a trian test split, and train our model!
 
 Split the data into training set and testing set using train_test_split
 
-##Train and fit a logistic regression model on the training set
+## Train and fit a logistic regression model on the training set
 
-##Predictions and Evaluations
+## Predictions and Evaluations
 
 Now Predict values for the testing data.
 
-#Create a classification report for the model.
+# Create a classification report for the model.
 
-##Conclusion
+## Conclusion
 
 Since we have classified which age are spending more time and all. Now with the logistic model we can see that the model is working fine with good precision rate.
